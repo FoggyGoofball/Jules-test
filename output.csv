@@ -1,0 +1,25 @@
+strand,gene,baseRate,basis,chem,id,locus,mode,organ,p1,p2,r1,r2,ratioP1,ratioP2,ratioR1,ratioR2,sex,structure,substructure,value0,value1,value2,value3,value4,value5,value6,value7,x1,x2,x3,x4,y1,y2,y3,y4
+0,DX,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,
+0,VO,,,,hairStyle,,,,,,,,,,,,,,,0 | 2 | 3 | 6,XXX,XXX,XXX,XXX,XXX,XXX,XXX,,,,,,,,
+0,RO,,,somatin,,2,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,0.25,0.5,0.75,0.7
+0,RO,,,andrgen,,4,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0,0.4 | 0.2 | 0.3,*,*
+0,RO,,,somatin,,5,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,0.7,0.5 | 0 | 0.25,*,*
+0,RO,,,andrgen,,6,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0.5 | 0 | 0.3,*,*,*
+0,RO,,,somatin,,7,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,1,0.5 | 0.4,*,*
+0,RO,,,andrgen,,8,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0.5 | 0.1 | 0.3,*,*,*
+0,RO,,,somatin,,0,0,mouth,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,1,0.8,0.6,0.6
+0,RO,,,progest,,20,0,genome,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,0.1,1,1,1,0,0,0
+0,ZO,1.0000,,,,,,,luteine,estrgen,luteine,,1,1,1,1,,,,,,,,,,,,,,,,,,,
+0,RO,,,progest,,0,0,genome,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,0.7,1,1,0,0,0.2,0.2
+1,DX,,,,,,,,,,,,,,,,Y,,,,,,,,,,,,,,,,,,
+1,VO,,,,hairStyle,,,,,,,,,,,,,,,1 | 2 | 4 | 5,XXX,XXX,XXX,XXX,XXX,XXX,XXX,,,,,,,,
+1,RO,,,somatin,,2,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,0.25,0.5,0.95,0.8
+1,RO,,,andrgen,,4,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0.1,0.5 | 0.75 | 1.0,*,*
+1,RO,,,somatin,,5,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,0.7,0.5 | 0.6 | 0.8,*,*
+1,RO,,,andrgen,,6,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0.5 | 0.75 | 1.0,*,*,*
+1,RO,,,somatin,,7,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,1,0.5 | 0.6 | 0.65,*,*
+1,RO,,,andrgen,,8,0,body,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,1,1,1,0.5 | 0.7 | 0.8,*,*,*
+1,RO,,,somatin,,0,0,mouth,,,,,,,,,,XXXX,Somatic,,,,,,,,,#birth,#puberty,#adulthood,#old,1,0.5,0,0
+1,RO,,,progest,,20,0,genome,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,0.1,1,1,1,1,1,1
+1,ZO,0.5,h,,,,,,luteine,testone,luteine,,1,1,1,1,,,,,,,,,,,,,,,,,,,
+1,RO,,,testone,,0,0,genome,,,,,,,,,,XXXX,Somatic,,,,,,,,,0,0.7,1,1,0,0,0.2,0.2
